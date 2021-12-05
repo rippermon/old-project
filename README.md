@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/211205/4795df94f863786a7f80dd5488867c88.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://www.linkpicture.com/q/logo_30.jpg" alt="JPG" width="300" height="300"/>
+        <img src="https://www.linkpicture.com/q/logo_30.jpg" alt="JPG" width="250" height="250"/>
 </p>
 
 <div align="center">
