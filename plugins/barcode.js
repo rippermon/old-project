@@ -1,4 +1,4 @@
-/*coded by ameer-kallumthodi
+/*coded by Ziyan
 https://youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw
 */
 
@@ -7,7 +7,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const need = "*type some word after command*\n*command  ENTHEKILUM EZHUTH NENBA"
+const need = "*type some word after command*\n*command  ENTHEKILUM TYPE NANBA"
 
 if (Config.WORKTYPE == 'private') {
 
