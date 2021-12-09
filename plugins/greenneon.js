@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 ameer-kallumthodi.
+/* Copyright (C) 2021 Ziyan.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 PIKACHU*/
@@ -8,7 +8,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const need = "Command Kazhinn Yanthankilum Eyuth muthe\n🙄🙄🙄"
+const need = "Command Kazhinn Yanthankilum Eyuth muthe\n😁😁😁"
 
 if (Config.WORKTYPE == 'private') {
 
@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/greenneon?apikey=72455af19b2324b6b9a4c844&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by RIPPERSER*' })
 
   }));
 }
@@ -31,7 +31,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/greenneon?apikey=72455af19b2324b6b9a4c844&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by RIPPERSER*' })
 
   }));
 
