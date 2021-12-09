@@ -1,4 +1,4 @@
-//PLUGIN BY SOURAVKL11 COPY WITH CREDIT
+//PLUGIN BY ziyan
 
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
