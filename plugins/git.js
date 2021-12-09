@@ -16,9 +16,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Githublink (Setup)  :    https://github.com/Ziyankp/RIPPER-SER*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/Ziyankp/RIPPER-SER/tree/master/uploads*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : https://github.com/Ziyankp/RIPPER-SER/tree/master/uploads*
 
 *Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
 
