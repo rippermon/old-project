@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
 recodded by afnanplk
-new work type by afnanplk
+new work type by ziyan
 */
 
 const Asena = require('../events');
