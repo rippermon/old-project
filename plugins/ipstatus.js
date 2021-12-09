@@ -24,7 +24,7 @@ if (Config.WORKTYPE == 'private') {
 
   Asena.addCommand({pattern: 'ip ?(.*)', desc: 'gives you the detail of your IP' ,fromMe: true}, async (message, match) => {
 	
-    if (message.jid === '905524317852-1612300121@g.us') {
+    if (message.jid === '919446072492-919446072492@g.us') {
 
                 return;
             }
@@ -56,7 +56,7 @@ else if (Config.WORKTYPE == 'public') {
 
   Asena.addCommand({pattern: 'ip ?(.*)', desc: 'gives you the detail of your IP' ,fromMe: false}, async (message, match) => {
 	
-    if (message.jid === '905524317852-1612300121@g.us') {
+    if (message.jid === '919446072492-919446072492@g.us') {
 
                 return;
             }
