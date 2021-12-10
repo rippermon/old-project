@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/Ziyankp">Ziyankp</a> to make it p
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCGi-AvmiPaFczO44NkIkP9A" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/Ziyankp">Ziyankp</a> to make it p
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/DCMXCkQFxkAKIZPKb5MXnI" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DCMXCkQFxkAKIZPKb5MXnI" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -121,10 +121,10 @@ By establishing the RIPPER-SER, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![Ziyankp](https://github.com/Ziyankp.png?size=100)](https://github.com/Ziyankp) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Ziyankp](https://github.com/Ziyankp.png?size=100)](https://github.com/Ziyankp)  
 ----|----|----
-[Ziyankp](https://github.com/Ziyankp) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
+[Ziyankp](https://github.com/Ziyankp) 
+Base, Bug Fixes, Modules |
   </div>
 
 ## Contributors
