@@ -20,11 +20,11 @@ if (Config.WORKTYPE == 'private') {
             {mimetype: Mimetype.mp4Audio}
         )
    }));
-  
+   
    Asena.addCommand({pattern: 'rippermods', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('💎 *RIPPERMODS WA* 💎\moded unlocked .\n📌 https://tinyurl.com/y2onjhs9');
    }));
-   
+
    Asena.addCommand({pattern: 'nova', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('💎 *NOVA LAUNCHER* 💎\npremium unlocked .\n📌 bit.ly/drknova');
    }));
