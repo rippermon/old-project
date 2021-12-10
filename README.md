@@ -121,9 +121,8 @@ By establishing the RIPPER-SER, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![Ziyankp](https://github.com/Ziyankp.png?size=100)](https://github.com/Ziyankp)  
-----|----|----
-[Ziyankp](https://github.com/Ziyankp) 
+  [![Ziyankp](https://github.com/Ziyankp.png?size=50)](https://github.com/Ziyankp)  
+[Ziyankp](https://github.com/Ziyankp)
 Base, Bug Fixes, Modules |
   </div>
 
