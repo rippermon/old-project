@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *❗RIPPER SER Error found!* ~______~*' +
-                                    '\n\n*🔰 ' + error + '*\n\n```*Subscribe channel to get updates and support for more awesome wa bot:* https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw \n Report errors\njoin with +91 \n https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6``` ' 
+                                    '\n\n*🔰 ' + error + '*\n\n```*Subscribe channel to get updates and support for more awesome wa bot:* https://youtube.com/channel/UCGi-AvmiPaFczO44NkIkP9A \n Report errors\njoin with +91 \n https://chat.whatsapp.com/DCMXCkQFxkAKIZPKb5MXnI``` ' 
                                     , MessageType.text);
                             }
                         }
