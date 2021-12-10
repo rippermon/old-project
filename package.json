@@ -1,14 +1,14 @@
 {
-  "name": "Pikachu-Bot",
+  "name": "Bixby-mowl",
   "version": "2.0.0",
-  "description": "Pikachu whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./pikachu/bot.js",
+  "description": "Bixby-mowl whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./Bixby-mowl/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/Ziyankp/Bixby-mowl.git"
   },
   "keywords": [
     "WhatsApp",
@@ -16,10 +16,10 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Ameer suhail / @phaticusthiccy",
+  "developer": "Ziyankp / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/Ziyankp/Bixby-mowl/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
