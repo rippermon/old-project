@@ -21,7 +21,7 @@ if (Config.WORKTYPE == 'private') {
         )
    }));
   
-   Asena.addCommand({pattern: 'nova', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+   Asena.addCommand({pattern: 'rippermods', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('💎 *RIPPERMODS WA* 💎\moded unlocked .\n📌 https://tinyurl.com/y2onjhs9');
    }));
    
