@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Ripperser working😇!')
+            chalk.green.bold('✅ Bixby-mowl working😇!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *❗RIPPER SER Error found!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *❗Bixby-mwol Error found!* ~______~*' +
                                     '\n\n*🔰 ' + error + '*\n\n```*Subscribe channel to get updates and support for more awesome wa bot:* https://youtube.com/channel/UCGi-AvmiPaFczO44NkIkP9A \n Report errors\njoin with +91 \n https://chat.whatsapp.com/DCMXCkQFxkAKIZPKb5MXnI``` ' 
                                     , MessageType.text);
                             }
