@@ -1,4 +1,4 @@
-const Bixby-mowl = require('../events');
+const Bixbymowl = require('../events');
 const axios = require('axios');
 const {MessageType, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
