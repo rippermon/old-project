@@ -1,15 +1,15 @@
 {
-    "name": "RIPPER-SER",
-    "description": "RIPPER-SER - Whatsapp Bot",
+    "name": "Bixby-mowl",
+    "description": "Bixby-mowl - Whatsapp Bot",
     "logo": "https://i.imgur.com/W0i7oMY.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Ziyankp/RIPPER-SER",
+    "repository": "https://github.com/Ziyankp/Bixby-mowl",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Asena session changed! Type your Pikachu code here.",
+            "description": "Asena session changed! Type your Bixby-mowl code here.",
             "required": true
         },
         "SUDO": {
@@ -22,7 +22,7 @@
             "value": "en"
         },
          "BGM_DURATION": {
-            "description": "FUNY BGM DURATION   codded by SAIDALI",
+            "description": "FUNY BGM DURATION   codded by ZIYAN",
             "required": false,
             "value": "31996800"
          },
