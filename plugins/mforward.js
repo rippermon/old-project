@@ -1,11 +1,11 @@
-const Bixbymowl = require("../Utilis/events");
+const Asena = require("../Utilis/events");
 const { forwardOrBroadCast } = require("../Utilis/groupmute");
 const { getBuffer } = require('../Utilis/download');
 const { parsedJid } = require("../Utilis/Misc");
 
 // chnage url for custom photo and change caption if
 const url = 'https://www.linkpicture.com/q/20211204_114453.jpg'
-Bixbymowl.addCommand(
+Asena.addCommand(
     { pattern: 'mforward ?(.*)', fromMe: true, desc: "Forward replied msg." },
     async (message, match) => {
         if (match == "") return await message.sendMessage("*Give me a jid*\nExample .mforward jid1 jid2 jid3 jid4 ...");
