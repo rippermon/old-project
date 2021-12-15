@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![RIPPER-SER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Ripperser+WA+Bot+repo;Created+by+Ziyan+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![RIPPER-SER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Bixby-mowl+WA+Bot+repo;Created+by+Ziyan+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
