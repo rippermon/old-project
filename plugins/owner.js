@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'RIPPER-SER bot created by *Ziyan*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Bixby-mowl bot created by *Ziyan*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -36,7 +36,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'RIPPER-SER Bot created by *ziyan*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Bixby-mowl Bot created by *ziyan*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY OWNER*', MessageType.text);
