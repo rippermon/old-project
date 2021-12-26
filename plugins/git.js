@@ -14,11 +14,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 
-*Githublink (Setup)  :    https://github.com/Ziyankp/RIPPER-SER*
+*Githublink (Setup)  :    https://github.com/Ziyankp/Bixby-mowl*
 
-*Audio commads :   https://github.com/Ziyankp/RIPPER-SER/tree/master/uploads*
+*Audio commads :   https://github.com/Ziyankp/Bixby-mowl/tree/master/uploads*
 
-*Sticker commads : https://github.com/Ziyankp/RIPPER-SER/tree/master/uploads*
+*Sticker commads : https://github.com/Ziyankp/Bixby-mowl/tree/master/uploads*
 
 *Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
 
